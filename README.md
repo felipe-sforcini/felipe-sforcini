@@ -1,4 +1,5 @@
-### Oi, eu sou o Felipe ✌🏽
+### Oi, eu sou o Felipe ✌
+### Sou Desenvolvedor Full Stack
   
   ##
 
